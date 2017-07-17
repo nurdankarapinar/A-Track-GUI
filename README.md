@@ -1,5 +1,5 @@
 # A-Track-GUI
-TÜBİTAK-1001 proje kapsamında çalışılan projemizin teleskop görüntüleri üzerinde ilk kez kullanılacak yöntem ile yeniden geliştirdiğimiz algoritmamız şuan herkesin erişebileceği bir yazılımdır (bknz.https://github.com/akdeniz-uzay/A-Track ). Projemizin son aşamasında kullanıcı dostu bir arayüz tasarlamak üzere şuan gördüğünüz aşamadayım. Aynı zamanda tez çalışma konum olan bu projenin daha hızlı ses getirmesi için arayüzü son bitirme aşamasında sizlerle paylaşmak istedim. Geliştirme ve katkılarınız var ise nurdankarapinar@gmail.com dan benimle iletişime geçebilirsiniz.
+TÜBİTAK-1001 proje kapsamında çalışılan projemizin teleskop görüntüleri üzerinde ilk kez kullanılacak yöntem ile yeniden geliştirdiğimiz algoritmamız şuan herkesin erişebileceği bir yazılımdır (bknz.https://github.com/akdeniz-uzay/A-Track ). Projemizin son aşamasında kullanıcı dostu bir arayüz tasarlandı. Arayüzün çalışması için A-Track modülleri ile aynı dizin altında bulunması gerekmektedir.
 
 PROJENİN AMACI:
 
